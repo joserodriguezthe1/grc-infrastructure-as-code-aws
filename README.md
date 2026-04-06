@@ -59,7 +59,7 @@ Screenshots
 ### 4. Secure Access via SSM
 ![SSM](Screenshots/ssm-session.png)
 
-### 5. Encrypted Volume
+### 5. Encrypted EBS Volume (Data Protection Control)
 ![Encryption](Screenshots/encryption.png)
 
 ### 6. IAM Role
