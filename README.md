@@ -26,7 +26,7 @@ This project demonstrates Infrastructure as Code (IaC) using AWS CloudFormation 
 ## 📸 Screenshots
 
 ### 1. CloudFormation Stack
-![CloudFormation](screenshots/cloudformation-stack.png)
+![CloudFormation](Screenshots/cloudformation-stack.png)
 
 ### 2. Resources Created
 ![Resources](screenshots/resources-created.png)
