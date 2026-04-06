@@ -23,6 +23,28 @@ GRC Controls Implemented
 
 ---
 
+Compliance Alignment
+
+This project aligns with industry-standard security and compliance frameworks:
+
+### CIS AWS Foundations Benchmark
+- 1.4 – Ensure no root account access keys exist (IAM role used)
+- 2.2 – Ensure CloudTrail is enabled (recommended future step)
+- 4.1 – Ensure EBS encryption is enabled
+
+### NIST SP 800-53 (Basic Mapping)
+- AC-2: Account Management → IAM Role usage
+- SC-12: Cryptographic Key Establishment → EBS encryption
+- CM-6: Configuration Settings → Infrastructure as Code (CloudFormation)
+
+### GRC Principles Applied
+- Least Privilege Access
+- Secure Configuration Management
+- Data Protection at Rest
+- Audit Readiness via IaC
+
+---
+
 Screenshots
 
 ### 1. CloudFormation Stack
