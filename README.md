@@ -86,5 +86,4 @@ This project demonstrates how security and compliance can be embedded directly i
 
 ---
 
-Author
 Jose Rodriguez
