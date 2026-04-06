@@ -29,25 +29,25 @@ This project demonstrates Infrastructure as Code (IaC) using AWS CloudFormation 
 ![CloudFormation](Screenshots/cloudformation-stack.png)
 
 ### 2. Resources Created
-![Resources](screenshots/resources-created.png)
+![Resources](Screenshots/resources-created.png)
 
 ### 3. EC2 Instance Running
-![EC2](screenshots/ec2-running.png)
+![EC2](Screenshots/ec2-running.png)
 
 ### 4. Secure Access via SSM ⭐
-![SSM](screenshots/ssm-session.png)
+![SSM](Screenshots/ssm-session.png)
 
 ### 5. Encrypted Volume
-![Encryption](screenshots/encryption.png)
+![Encryption](Screenshots/encryption.png)
 
 ### 6. IAM Role
-![IAM](screenshots/iam-role.png)
+![IAM](Screenshots/iam-role.png)
 
 ### 7. Security Group (Restricted Access)
-![Security](screenshots/security-group.png)
+![Security](Screenshots/security-group.png)
 
 ### 8. Resource Tagging
-![Tags](screenshots/tags.png)
+![Tags](Screenshots/tags.png)
 
 ---
 
