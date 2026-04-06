@@ -45,19 +45,6 @@ This project aligns with industry-standard security and compliance frameworks:
 
 ---
 
-## Why Infrastructure as Code Matters for GRC
-
-Infrastructure as Code enables:
-
-- Consistent enforcement of security controls
-- Reduced risk of misconfiguration
-- Automated evidence generation for audits
-- Version-controlled infrastructure changes
-
-This aligns with modern GRC practices where compliance is embedded into engineering workflows rather than applied after deployment.
-
----
-
 Screenshots
 
 ### 1. CloudFormation Stack
