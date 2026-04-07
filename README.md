@@ -33,9 +33,9 @@ This project aligns with industry-standard security and compliance frameworks:
 - 4.1 - Ensure EBS encryption is enabled
 
 ### NIST SP 800-53 (Basic Mapping)
-- AC-2: Account Management - IAM Role usage
-- SC-12: Cryptographic Key Establishment - EBS encryption
-- CM-6: Configuration Settings - Infrastructure as Code (CloudFormation)
+- AC-2: Account Management → IAM Role usage
+- SC-12: Cryptographic Key Establishment → EBS encryption
+- CM-6: Configuration Settings → Infrastructure as Code (CloudFormation)
 
 ### GRC Principles Applied
 - Least Privilege Access
